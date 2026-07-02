@@ -70,8 +70,3 @@ Then follow the lab-specific notes:
 - Hadoop and Spark examples generally assume command-line tools such as `hadoop`, `mapred`, `spark-submit`, and `nc`.
 - The PDF syllabus and legacy note fragments are preserved in [`docs`](docs) for context.
 
-## Suggested GitHub Metadata
-
-**Repository name:** `big-data-labs-spring-2024`
-
-**Description:** Spring 2024 big data coursework covering Hadoop Streaming, Spark streaming, Hive, TF-IDF, and Python data-processing exercises.
